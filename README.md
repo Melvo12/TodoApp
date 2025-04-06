@@ -1,3 +1,11 @@
+# 📝 ToDo App
+
+A simple task manager built with JavaScript and Vite.
+
+🔗 [**Live Demo**](https://todoappbydanielricketts.netlify.app/#/)
+
+
+
 # js-moderno-vite-todo
 
 1. Clonar repositorio
